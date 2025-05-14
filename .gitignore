@@ -1,0 +1,15 @@
+
+node_modules/
+dist/
+build/
+auth/
+/logs/
+*.log
+.env
+.env.*
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+package-lock.json
+auth-session.json
+baileys_store.json
