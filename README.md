@@ -2,7 +2,7 @@
 
 This project is a simple Node.js/TypeScript-based backend service using the [Baileys](https://github.com/WhiskeySockets/Baileys) library to integrate WhatsApp messaging. It exposes RESTful API endpoints and manages WhatsApp sessions securely. 
 
-This project serves as a personal learning exercise for me to understand websocket on Node.js and to gain experience buidling backend on Node.js using Typescript.
+This project serves as a personal learning exercise for me to understand websocket on Node.js and to gain experience building backend on Node.js using Typescript.
 
 ## Features
 
